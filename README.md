@@ -1,1 +1,1 @@
-# D_VLC_ResizePNG
+# Delphi VLC ResizePNG for Mobile App Icon
